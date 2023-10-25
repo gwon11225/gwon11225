@@ -2,7 +2,7 @@
 
 ## My Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon11225)]()  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon11225&theme=swift&langs_count=10&layout=compact)]() [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gwonjiyoung07)](https://solved.ac/gwonjiyoung07)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gwonjiyoung07)](https://solved.ac/gwonjiyoung07)
 
 ## My Career
 💡 대구소프트웨어고등학교 재학중 (2023.3 ~)
